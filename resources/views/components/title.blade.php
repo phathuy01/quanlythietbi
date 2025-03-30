@@ -1,0 +1,1 @@
+<div {{ $attributes->merge([ 'class' => 'mt-3 font-sans text-2xl font-bold text-white drop-shadow-md']) }}>QUẢN LÝ THIẾT BỊ</div>
