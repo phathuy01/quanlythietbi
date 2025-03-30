@@ -10,6 +10,7 @@ use App\Http\Controllers\QuanLyDonVi\ViTriController;
 use Illuminate\Support\Facades\Redirect;
 use Illuminate\Support\Facades\View;
 
+/** @phpstan-ignore-next-line */
 Route::get('/', function () {
     return redirect('/login');
 });
